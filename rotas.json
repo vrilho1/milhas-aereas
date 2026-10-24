@@ -1,0 +1,80 @@
+{
+  "usuario": {
+    "clube_smiles": true,
+    "categoria": "Clube",
+    "email_notificacao": "emaildoedinho@hotmail.com"
+  },
+  "configuracoes": {
+    "dias_para_buscar_a_frente": 90,
+    "somente_voos_diretos": false,
+    "intervalo_checagem_horas": 24
+  },
+  "rotas_monitoradas": [
+    {
+      "origem": "SDU",
+      "destino": "CGH",
+      "descricao": "Rio (Santos Dumont) -> São Paulo (Congonhas)",
+      "teto_milhas_clube": 20000
+    },
+    {
+      "origem": "GIG",
+      "destino": "EZE",
+      "descricao": "Rio (Galeão) -> Buenos Aires (Ezeiza)",
+      "teto_milhas_clube": 20000
+    },
+    {
+      "origem": "GIG",
+      "destino": "SCL",
+      "descricao": "Rio (Galeão) -> Santiago do Chile",
+      "teto_milhas_clube": 20000
+    },
+    {
+      "origem": "GIG",
+      "destino": "MVD",
+      "descricao": "Rio (Galeão) -> Montevidéu",
+      "teto_milhas_clube": 20000
+    },
+    {
+      "origem": "GIG",
+      "destino": "FOR",
+      "descricao": "Rio (Galeão) -> Fortaleza",
+      "teto_milhas_clube": 20000
+    },
+    {
+      "origem": "GIG",
+      "destino": "SSA",
+      "descricao": "Rio (Galeão) -> Salvador",
+      "teto_milhas_clube": 20000
+    },
+    {
+      "origem": "CNF",
+      "destino": "CGH",
+      "descricao": "Belo Horizonte (Confins) -> São Paulo (Congonhas)",
+      "teto_milhas_clube": 20000
+    },
+    {
+      "origem": "CNF",
+      "destino": "SDU",
+      "descricao": "Belo Horizonte (Confins) -> Rio (Santos Dumont)",
+      "teto_milhas_clube": 20000
+    },
+    {
+      "origem": "CNF",
+      "destino": "BPS",
+      "descricao": "Belo Horizonte (Confins) -> Porto Seguro",
+      "teto_milhas_clube": 20000
+    },
+    {
+      "origem": "CNF",
+      "destino": "EZE",
+      "descricao": "Belo Horizonte (Confins) -> Buenos Aires (Ezeiza)",
+      "teto_milhas_clube": 20000
+    },
+    {
+      "origem": "CNF",
+      "destino": "SCL",
+      "descricao": "Belo Horizonte (Confins) -> Santiago do Chile",
+      "teto_milhas_clube": 20000
+    }
+  ]
+}
