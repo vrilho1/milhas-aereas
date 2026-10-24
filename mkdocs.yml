@@ -1,0 +1,23 @@
+site_name: Milhas Aéreas
+site_url: https://vrilho1.github.io/milhas-aereas
+repo_url: https://github.com/vrilho1/milhas-aereas
+repo_name: vrilho1/milhas-aereas
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: amber
+nav:
+  - Home: index.md
+  - Instalação: installation.md
+  - Uso: usage.md
+  - Configuração: configuration.md
+  - Contribuir: contributing.md
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
+  - meta
+  - toc:
+      permalink: true

@@ -1,5 +1,9 @@
 # ✈️ Monitor de Milhas Smiles
 
+[![License](https://img.shields.io/github/license/vrilho1/milhas-aereas)](https://github.com/vrilho1/milhas-aereas/blob/main/LICENSE)
+[![GitHub Actions CI](https://github.com/vrilho1/milhas-aereas/workflows/CI/badge.svg)](https://github.com/vrilho1/milhas-aereas/actions)
+
+
 Automação diária desenvolvida em Python para rastrear oportunidades e promoções em milhas na **Smiles (GOL)** com foco em saídas do **Rio de Janeiro** e **Belo Horizonte** para destinos nacionais e América do Sul.
 
 ---
